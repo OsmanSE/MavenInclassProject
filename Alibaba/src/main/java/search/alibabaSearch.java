@@ -1,6 +1,6 @@
 package search;
 import common.CommonAPI;
-public class RunSearch extends CommonAPI{
+public class alibabaSearch extends CommonAPI{
 
     public void searchThings(){
 
